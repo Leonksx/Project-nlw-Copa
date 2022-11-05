@@ -4,7 +4,7 @@
 
 ![preview](.github/preview.png)
 
-Projeto construído no evento Next Level Week eSports da Rocketseat.
+Projeto construído no evento Next Level Week Copa da Rocketseat.
 
 [Clique aqui para acessar](https://leonksx.github.io/Project-nlw-Copa/)
 
