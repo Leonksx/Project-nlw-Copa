@@ -12,6 +12,7 @@ Projeto construído no evento Next Level Week eSports da Rocketseat.
 
 - HTML
 - CSS
+- JavaScript
 - Git e Github
 
 ## Contato
